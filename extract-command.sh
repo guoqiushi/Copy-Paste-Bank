@@ -1,0 +1,1 @@
+python extract_obj_365_by_class.py --ann zhiyuan_objv2_val.json --classes Person Basketball Football Cat Dog Cup Handbag Hat Labtop Tablet Hat Bottle "cell phone" --image_root /dataset/gqs/obj365/val --output_dir target_classes
